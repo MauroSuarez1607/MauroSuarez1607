@@ -1,7 +1,7 @@
 ### Hola, soy Mauro 👋
 <img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24"> *maurosuarez1994@gmail.com*
 
-Soy un apasionado desarrollador web fullstack con un fuerte deseo de aprender y crecer en el mundo de la tecnología. Mi enfoque principal es crear soluciones innovadoras y eficientes que mejoren la experiencia del usuario. Un entusiasta del desarrollo web con experiencia tanto en el frontend como en el backend. Mi viaje en el mundo de la programación comenzó con [JavaScript], y desde entonces he explorado diversas tecnologías.
+Soy un apasionado desarrollador web fullstack con un fuerte deseo de aprender y crecer en el mundo de la tecnología. Mi enfoque principal es crear soluciones innovadoras y eficientes que mejoren la experiencia del usuario. Un entusiasta del desarrollo web con experiencia tanto en el frontend como en el backend. Mi viaje en el mundo de la programación comenzó con *JavaScript*, y desde entonces he explorado diversas tecnologías.
 Me encanta enfrentar desafíos técnicos y estoy constantemente buscando maneras de mejorar mis habilidades. Creo en la importancia de mantenerse actualizado con las últimas tendencias tecnológicas y adoptar las mejores prácticas de desarrollo.
 
 ### Habilidades
