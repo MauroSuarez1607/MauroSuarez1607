@@ -14,7 +14,7 @@ Me encanta enfrentar desafíos técnicos y estoy constantemente buscando maneras
 &nbsp; &nbsp; *[Ver mi CV](https://drive.google.com/file/d/1uBMfuNbB3372iWitLNAgLnVu531HAR3W/view?usp=sharing)*
 <br />
 
-### Tech & Tools Preference
+### Tecnologias y herramientas
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -27,7 +27,7 @@ Me encanta enfrentar desafíos técnicos y estoy constantemente buscando maneras
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-### You can find in me in the web 🌍
+### Puedes encontrarme en... 🌍
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
