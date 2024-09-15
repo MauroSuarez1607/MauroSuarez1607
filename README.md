@@ -11,8 +11,6 @@ Me encanta enfrentar desafíos técnicos y estoy constantemente buscando maneras
 - Enfocado en la resolución de problemas y la mejora continua.
 - Siempre ansioso por aprender y asumir nuevos desafíos.
 
-&nbsp; &nbsp; *[Ver mi CV](https://drive.google.com/file/d/1uBMfuNbB3372iWitLNAgLnVu531HAR3W/view?usp=sharing)*
-<br />
 
 ### Tecnologias y herramientas
 
@@ -29,8 +27,5 @@ Me encanta enfrentar desafíos técnicos y estoy constantemente buscando maneras
 
 ### Puedes encontrarme en... 🌍
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/suarez_mauro/
 [linkedin]: https://www.linkedin.com/in/mauro-suarez-b166a6191/
